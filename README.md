@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Ahmad!
+
+- 🔭 I'm a Java and Spring developer
+- 💬 Ask me about Java design patterns
+- 📫 How to reach me: [zendebudi.com](https://zendebudi.com)
 
 <!--
 **ahmadzendebudi/ahmadzendebudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
